@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+   <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+</p>
+
 <!--
 **mtalaisys/mtalaisys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

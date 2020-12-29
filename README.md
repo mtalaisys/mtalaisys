@@ -1,4 +1,4 @@
-![Alt Text](C:\Users\LemosM02\Downloads\GitTop.gif)
+![](GitTop.gif)
 
 ### ⚡ Você me encontra:
 

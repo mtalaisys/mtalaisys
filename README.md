@@ -1,4 +1,4 @@
-![](GitTop.gif)
+![](git_header.gif)
 
 ### ⚡ Você me encontra:
 

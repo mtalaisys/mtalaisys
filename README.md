@@ -1,6 +1,6 @@
 ![](git_header.gif)
 
-### ⚡ Você me encontra:
+### ⚡ Find me around the web:
 
   <a href="https://www.linkedin.com/in/mariana-talaisys-b9881639/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">

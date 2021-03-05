@@ -1,4 +1,4 @@
-![](git_header.gif)
+<img src="https://github.com/mtalaisys/mtalaisys/blob/main/git_header.gif" width="70%" height="70%">
 
 ### ⚡ Find me around the web:
 
@@ -17,6 +17,8 @@
 <hr>
 <!--
 **mtalaisys/mtalaisys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[](git_header.gif)
 
 Here are some ideas to get you started:
 

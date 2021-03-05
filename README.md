@@ -10,10 +10,6 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
   </a>
 
-  <a href="https://www.meetup.com/pt-BR/members/191320307/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/meetup.svg" alt="Meetup" style="vertical-align:top; margin:4px">
-  </a>
-
 <hr>
 <!--
 **mtalaisys/mtalaisys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

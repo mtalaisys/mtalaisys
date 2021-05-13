@@ -21,7 +21,6 @@ Eu sou a Mel! 🍯
   <img align="center" alt="Mel Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mel Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Mel Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="right" alt="Bye!" src="https://media.giphy.com/media/joXtIlEbFrsA/giphy.gif" width="100" height="150">
 </div>
   
   ##

@@ -1,29 +1,34 @@
-<img src="https://github.com/mtalaisys/mtalaisys/blob/main/git_header.gif" width="70%" height="70%">
+<h2> Hello Humans (ou não)!</h2>
+Eu sou a Mel! 🍯
+<br>
+<br>
+<div>
+* 🚀 atualmente me desenvolvendo na área de Ciência de Dados<br>
+* 👾 amo joguinhos <br>
+* 🏃🏻‍♀️ e AMO correr! <br>
+* 👽 42
+<br>
+<br>
+<div>
+<a href="https://github.com/mtalaisys">
+ <div>
+  <a href="https://github.com/mtalaisys">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtalaisys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalaisys&layout=compact&langs_count=8&theme=dracula"/>
+<div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mel Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mel Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Mel Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="right" alt="Bye!" src="https://media.giphy.com/media/jmYJF3hGctoOI/giphy.gif" width="200" height="200">
+</div>
+  
+  ##
+  
+  <div>
+  <a href = "mailto: mary.talaisys@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mariana-talaisys-b9881639/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/_meel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
 
-### ⚡ Find me around the web:
 
-  <a href="https://www.linkedin.com/in/mariana-talaisys-b9881639/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
-  </a>
-
-  <a href="https://www.instagram.com/_meel/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
-  </a>
-
-<hr>
-<!--
-**mtalaisys/mtalaisys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[](git_header.gif)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -3,10 +3,11 @@ Eu sou a Mel! 🍯
 <br>
 <br>
 <div>
-* 🚀 atualmente me desenvolvendo na área de Ciência de Dados<br>
-* 👾 amo joguinhos <br>
-* 🏃🏻‍♀️ e AMO correr! <br>
-* 👽 42
+🚀 - atualmente me desenvolvendo na área de Ciência de Dados<br>
+👾 - amo joguinhos <br>
+🏃🏻‍♀️ - AMO correr! <br>
+👽 - 42
+
 <br>
 <br>
 <div>

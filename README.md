@@ -3,7 +3,7 @@ Eu sou a Mel! 🍯
 <br>
 <br>
 <div>
-🚀 - me desenvolvendo na área de Ciência de Dados<br>
+🚀 - me desenvolvendo na área de Engenharia/Ciência de Dados<br>
 👾 - amo joguinhos s2 <br>
 🏃🏻‍♀️ - amo correr! <br>
 👽 - 42
